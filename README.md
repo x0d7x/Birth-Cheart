@@ -14,7 +14,7 @@ To run the application, you need to have Node.js installed.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/dox/heart.git
+    git clone https://github.com/x0d7x/Birth-Cheart/heart.git
     ```
 2.  Navigate to the project directory:
     ```bash
