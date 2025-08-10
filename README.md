@@ -2,6 +2,12 @@
 
 A simple Node.js command-line application that displays an animated, color-shifting heart with a "happy birthday" message.
 
+
+https://github.com/user-attachments/assets/d64e7d81-2af8-4207-ab1f-fff02efe813e
+
+
+
+
 ## Usage
 
 To run the application, you need to have Node.js installed.
